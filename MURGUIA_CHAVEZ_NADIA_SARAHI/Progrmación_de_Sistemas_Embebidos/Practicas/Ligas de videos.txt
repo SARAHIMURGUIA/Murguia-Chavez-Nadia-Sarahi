@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=HxtrQZnbuRA  (sensor de temperatura)
+
+https://www.youtube.com/watch?v=pWLWbCxhFvA (Luxometro)
+
+https://www.youtube.com/watch?v=nMSTnLNSBk4 (comandos GCC)
+
+https://www.youtube.com/watch?v=VFWwKK1_ETU (comandos GDB)
+
